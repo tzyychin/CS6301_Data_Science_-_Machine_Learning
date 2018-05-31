@@ -18,5 +18,5 @@
 - 5/31 Added Readme
 
 #### Reference
-- [World Happiness Dataset Dataset](https://www.kaggle.com/unsdsn/world-happiness)
+- [World Happiness Dataset](https://www.kaggle.com/unsdsn/world-happiness)
 - [World Happiness Official Website](http://worldhappiness.report/)
