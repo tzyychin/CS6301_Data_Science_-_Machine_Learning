@@ -14,7 +14,7 @@
 - 2017 Predicted Global Happiness Rank
 ![2](https://user-images.githubusercontent.com/22257488/40794239-323e78ae-64c4-11e8-9b77-29b63e8d45ea.png)
 
-### Change Notes
+#### Change Notes
 - 5/31 Added Readme
 
 #### Reference
